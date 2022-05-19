@@ -3,7 +3,15 @@
 
 Repositório criado para o desafio de projeto.
 
+Abaixo adicionei alguns links referentes a alguns repositórios onde eu resolvo alguns exercicios de JavaScript.
 
+*"Sempre que eu subir algum arquivo de resolução de exercícios sobre LPs para o GitHub, irei linkar neste diretório como um Indice."*
+
+
+## Exercícios JavaScript
+
+- [Lista de Exercícios Extras - Trybe](https://github.com/iamlucasgomes/Lista-de-exercicios---Summer-Virginia---Trybe) 
+- [Exercícios sobre estrutura de repetição - UTFPR](https://github.com/iamlucasgomes/Exercicios-sobre-estruturas-de-repeticao)
 ## 🚀 Sobre mim
 Me chamo Lucas Gomes, sou um Desenvolvedor Web Full Stack, atualmente aluno da [Trybe](https://www.betrybe.com/), frequentemente participo de alguns cursos e bootcamps na [DIO](https://www.dio.me/), nas horas vagas curto jogar alguns games🎮.
 
